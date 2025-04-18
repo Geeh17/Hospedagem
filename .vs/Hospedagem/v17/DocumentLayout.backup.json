@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|c:\\users\\geraldo luiz\\desktop\\projetos pessoais\\hospedagem\\hospedagem\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|solutionrelative:hospedagem\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|c:\\users\\geraldo luiz\\desktop\\projetos pessoais\\hospedagem\\hospedagem\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|solutionrelative:hospedagem\\models\\suite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|c:\\users\\geraldo luiz\\desktop\\projetos pessoais\\hospedagem\\hospedagem\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDB0508-F7EE-475B-A7C8-60F7DE1892FC}|Hospedagem\\Hospedagem.csproj|solutionrelative:hospedagem\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suite.cs",
+              "DocumentMoniker": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Suite.cs",
+              "RelativeDocumentMoniker": "Hospedagem\\Models\\Suite.cs",
+              "ToolTip": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Suite.cs",
+              "RelativeToolTip": "Hospedagem\\Models\\Suite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:46:38.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Hospedagem\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Reserva.cs",
+              "RelativeToolTip": "Hospedagem\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:46:33.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Hospedagem\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Hospedagem\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:45:37.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

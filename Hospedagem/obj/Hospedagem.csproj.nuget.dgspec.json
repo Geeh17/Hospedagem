@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geraldo Luiz\\Desktop\\Bootcamp\\Hospedagem\\hospedagem\\Hospedagem.csproj": {}
+    "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Hospedagem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geraldo Luiz\\Desktop\\Bootcamp\\Hospedagem\\hospedagem\\Hospedagem.csproj": {
+    "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Hospedagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geraldo Luiz\\Desktop\\Bootcamp\\Hospedagem\\hospedagem\\Hospedagem.csproj",
+        "projectUniqueName": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Hospedagem.csproj",
         "projectName": "Hospedagem",
-        "projectPath": "C:\\Users\\Geraldo Luiz\\Desktop\\Bootcamp\\Hospedagem\\hospedagem\\Hospedagem.csproj",
+        "projectPath": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\Hospedagem.csproj",
         "packagesPath": "C:\\Users\\Geraldo Luiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geraldo Luiz\\Desktop\\Bootcamp\\Hospedagem\\hospedagem\\obj\\",
+        "outputPath": "C:\\Users\\Geraldo Luiz\\Desktop\\Projetos Pessoais\\Hospedagem\\Hospedagem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

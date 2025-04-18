@@ -2,8 +2,8 @@ namespace DesafioProjetoHospedagem.Models;
 
 public class Pessoa
 {
-    public string Nome { get; set; }
-    public string Sobrenome { get; set; }
+    public string? Nome { get; set; }
+    public string? Sobrenome { get; set; }
 
     public Pessoa(string nome, string sobrenome)
     {
@@ -11,7 +11,7 @@ public class Pessoa
         Sobrenome = sobrenome;
     }
 
-    public Pessoa(string nome) : this(nome, string.Empty) { } // Construtor opcional
+    public Pessoa(string nome) : this(nome, string.Empty) { }
 
     public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 }
